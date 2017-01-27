@@ -1,0 +1,20 @@
+{
+  "name": "reventlov",
+  "version": "0.0.0",
+  "description": "a machine learning cellular automata companion library for olivaw",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": "lrlna/reventlov",
+  "keywords": [
+    "machine",
+    "learning",
+    "cellular",
+    "automata",
+    "automata",
+    "complexity"
+  ],
+  "author": "Irina Shestak",
+  "license": "MIT"
+}
